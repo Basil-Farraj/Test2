@@ -9,5 +9,9 @@ int main()
     cout << "Sum: "
          << number1 + number2 << endl;
 
+
+     cout << "Difference: "
+     << number1 - number2 << endl;
+
     return 0;
 }
