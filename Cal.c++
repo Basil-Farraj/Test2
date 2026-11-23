@@ -24,5 +24,8 @@ int main()
 
 
      cout << "Merge Test One 1"<<endl;
+
+          cout << "Merge Test One 3"<<endl;
+
     return 0;
 }
