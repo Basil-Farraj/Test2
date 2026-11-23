@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+   int Add(int number1, int number2)
+{
+    return number1 + number2;
+}
+
 int main()
 {
     cout << "Simple Calculator" << endl;
@@ -28,6 +33,5 @@ int main()
     cout << "Merge Test 3"<<endl;
 
    cout << "Merge Test 3 New Branch If You see it on main then it is successful merge"<<endl;
-
     return 0;
 }
