@@ -26,13 +26,6 @@ int main()
      cout << "Division: "
      << number1 / number2 << endl;
 
-
-     cout << "TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT##3333333333333333333333";
-
-
-     cout << "Update Main Hereeeeeeeeeeeeeeeeee!!!!";
-     
-
-     cout << "Hello World !!!!!!!!!!!!!!!!!" << endl;
+     cout << "HI YAmaaaaaaaaaaan";
 
 }
