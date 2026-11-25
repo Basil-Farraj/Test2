@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+   int Add(int number1, int number2)
+{
+    return number1 + number2;
+}
+
 int main()
 {
     cout << "Simple Calculator" << endl;
@@ -21,5 +26,5 @@ int main()
      cout << "Division: "
      << number1 / number2 << endl;
 
-    return 0;
+     cout << "TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT##3333333333333333333333";
 }
