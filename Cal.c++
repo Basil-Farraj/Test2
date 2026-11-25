@@ -26,14 +26,5 @@ int main()
      cout << "Division: "
      << number1 / number2 << endl;
 
-
-     cout << "NEW TEST HERRRRRRRRRRRRRRRRRRRRRRRE";
-
-
-     cout << "Merge Test One 1"<<endl;
-
-    cout << "Merge Test 3"<<endl;
-
-   cout << "Merge Test 3 New Branch If You see it on main then it is successful merge"<<endl;
-    return 0;
+     cout << "TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT##3333333333333333333333";
 }
